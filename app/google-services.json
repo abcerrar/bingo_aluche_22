@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "731416634004",
+    "project_id": "bingo-aluche",
+    "storage_bucket": "bingo-aluche.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731416634004:android:793a52dc1c8c809a418a81",
+        "android_client_info": {
+          "package_name": "com.example.bingo_aluche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731416634004-o825rnno11cn0vakl31d08hn2akuv6op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmL1QNgokFUGNCj9q-0-NnbhN9EYNF6xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731416634004-o825rnno11cn0vakl31d08hn2akuv6op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731416634004:android:a7f1348806ec44c8418a81",
+        "android_client_info": {
+          "package_name": "com.example.bingo_aluche_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731416634004-o825rnno11cn0vakl31d08hn2akuv6op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmL1QNgokFUGNCj9q-0-NnbhN9EYNF6xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731416634004-o825rnno11cn0vakl31d08hn2akuv6op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
